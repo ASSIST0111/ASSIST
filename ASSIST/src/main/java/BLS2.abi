@@ -1,0 +1,1 @@
+[{"constant":false,"inputs":[{"name":"negSigma","type":"uint256[2]"},{"name":"third","type":"uint256[2]"},{"name":"pk","type":"uint256[4]"}],"name":"verify","outputs":[],"payable":false,"stateMutability":"nonpayable","type":"function"},{"anonymous":false,"inputs":[{"indexed":false,"name":"note","type":"string"}],"name":"notify","type":"event"}]

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="console-4.5.5-all">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/web3j-4.5.5/lib/console-4.5.5-all.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
